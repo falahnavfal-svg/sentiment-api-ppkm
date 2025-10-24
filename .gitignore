@@ -1,6 +1,15 @@
-Dataset
+# Dataset
 *.csv
-INA_TweetsPPKM_Raw.csv
-Python cache
-pycache/
-*.pyc.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+*.venv
+
+.env
+.DS_Store
+Thumbs.db
