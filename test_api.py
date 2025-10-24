@@ -2,7 +2,7 @@ import requests  # Library untuk mengirim permintaan HTTP
 import json
 
 # Alamat API kita
-url = 'http://127.0.0.1:5000/predict'
+url = 'https://falahnaufal-api-sentimen-ppkm.hf.space/predict'
 
 # 1. Tes dengan kalimat NEGATIF
 print("Menguji sentimen NEGATIF...")
