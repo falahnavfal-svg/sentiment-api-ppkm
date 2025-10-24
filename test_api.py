@@ -2,7 +2,7 @@ import requests  # Library untuk mengirim permintaan HTTP
 import json
 
 # Alamat API kita
-url = 'https://falahnaufal-api-sentimen-ppkm.hf.space/predict'
+url = 'https://huggingface.co/spaces/falahnfl/api-sentimen-ppkm'
 
 # 1. Tes dengan kalimat NEGATIF
 print("Menguji sentimen NEGATIF...")
